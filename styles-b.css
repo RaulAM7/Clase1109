@@ -1,0 +1,13 @@
+* {
+    border: 1px solid red;
+    margin: 20px;
+}
+
+.inline {
+    display: inline;
+    color: red;
+}
+
+.block {
+    display: block;
+}
